@@ -2,6 +2,8 @@
 
 A simple news portal built with React and TypeScript. This project allows users to view the latest news and get detailed sentiment analyses for each news article.
 
+![News Portal](https://github.com/gabrielrossetto/news-portal/blob/master/src/assets/news-portal.gif)
+
 ## Features
 
 - **News Listing**: Displays the latest news in an ordered list.
